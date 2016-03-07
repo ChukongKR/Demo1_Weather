@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Demo1_Weather
+//
+//  Created by 郭正豪 on 16/1/16.
+//  Copyright © 2016年 郭正豪. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+
+#endif /* PrefixHeader_h */
+#define SCREEN_BOUNDS [UIScreen mainScreen].bounds
